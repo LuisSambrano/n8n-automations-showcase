@@ -1,6 +1,31 @@
-# ⚙️ High-Performance Workflows & AI Lab
+<div align="center">
 
-Professional automation ecosystem for orchestrating complex business processes and AI agentic logic.
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=n8n%20Automations&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Workflows%20%7C%20Business%20Logic%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
+
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Type-AI_Lab-blueviolet?style=for-the-badge" alt="Type: AI Lab"/>
+  <img src="https://img.shields.io/badge/n8n-Orchestrator-ff6600?style=for-the-badge&logo=n8n" alt="n8n" />
+  <img src="https://img.shields.io/badge/Flowise-Reasoning-8b5cf6?style=for-the-badge" alt="Flowise" />
+  <img src="https://img.shields.io/badge/Ollama-Local_LLM-white?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MCP-Integration-green?style=for-the-badge" alt="MCP Integration" />
+</p>
+
+<!-- LANGUAGE SWITCHER -->
+<p>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Selected-blue?style=flat-square" alt="English"/></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-Available-lightgrey?style=flat-square" alt="Español"/></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Available-lightgrey?style=flat-square" alt="Português"/></a>
+</p>
+
+</div>
+
+---
+
+**Professional automation ecosystem for orchestrating complex business processes and AI agentic logic using n8n and MCP.**
+
+---
 
 ## 🛠️ System Architecture
 
@@ -56,4 +81,10 @@ Enable Claude to execute workflows or read data directly from this environment u
 
 ---
 
-_Managed with excellence by **Luis Sambrano**_
+<div align="center">
+
+_Architected by **Luis Sambrano**_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
+
+</div>
